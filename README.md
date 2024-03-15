@@ -20,6 +20,10 @@ The necessary libraries to be loaded are:
 * mistralai
 * smtplib
 
+```bash
+pip install requests bs4 mistralai smtplib
+```
+
 You can load these libraries in Python using the following code:
 ```python
 import requests
